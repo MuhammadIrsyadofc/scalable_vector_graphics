@@ -1,0 +1,6 @@
+SVG ( Scalable Vector Graphics ) /  grafik berbentuk vector yang scalable atau bisa di skalakan 
+
+Vektor adalah gambar digital yang menggunakan kalkulasi matematika
+
+cara membentuk svg :
+SVG di bentuk menggunakan xml yang di gunakan untuk membuat gambar 2D

@@ -1,0 +1,10 @@
+draw : d 
+
+moveTo : M , m
+lineTo : L, l , H , h , V , v 
+Quadratic bezier curce : Q,q , T , t
+Elliptical arc curve : A, a
+
+
+
+bisa membuat svg dengan software figma
